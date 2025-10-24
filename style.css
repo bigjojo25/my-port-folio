@@ -49,6 +49,11 @@ body {
   color: #ff002b;
 }
 
+.home-img img{
+  margin-left: 40%;
+  width: 20%;
+}
+
 /* HERO */
 .hero {
   height: 100vh;
